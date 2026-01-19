@@ -1,0 +1,5645 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 7,
+        "hostname": "10.0.0.130",
+        "ip": "10.0.0.130",
+        "status": 1,
+        "sysName": "os6900-buuic",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 34,
+        "hostname": "10.0.0.134",
+        "ip": "10.0.0.134",
+        "status": 1,
+        "sysName": "med-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "MED_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 35,
+        "hostname": "10.0.0.146",
+        "ip": "10.0.0.146",
+        "status": 1,
+        "sysName": "nurse-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Nurse_Building-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 9,
+        "hostname": "10.0.0.154",
+        "ip": "10.0.0.154",
+        "status": 1,
+        "sysName": "os6860e-informatic",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "Informatic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923918,
+          13.281017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 10,
+        "hostname": "10.0.0.2",
+        "ip": "10.0.2.2",
+        "status": 1,
+        "sysName": "qs1-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "QS1_BUCC591502704000002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924248,
+          13.27917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 36,
+        "hostname": "10.0.0.217",
+        "ip": "10.0.0.217",
+        "status": 0,
+        "sysName": "os6860e-bbs-fl1",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "BBS-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927738,
+          13.272961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 37,
+        "hostname": "10.0.0.34",
+        "ip": "10.0.0.34",
+        "status": 1,
+        "sysName": "sportsci-csw",
+        "os": "procurve",
+        "hardware": "J9851A 5412Rzl2",
+        "location": "Sport Science"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926045,
+          13.279746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 38,
+        "hostname": "10.0.0.38",
+        "ip": "10.0.0.38",
+        "status": 1,
+        "sysName": "polsci-law-csw",
+        "os": "procurve",
+        "hardware": "J9851A 5412Rzl2",
+        "location": "POLITICAL SCIENCE AND LAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925804,
+          13.279671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 39,
+        "hostname": "10.0.0.41",
+        "ip": "10.0.0.41",
+        "status": 1,
+        "sysName": "qs2-os6860e",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "QS2_Building-BUCC651502703000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926139,
+          13.277404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 8,
+        "hostname": "10.0.0.50",
+        "ip": "10.0.0.50",
+        "status": 0,
+        "sysName": "student-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "Student_BUCC591502704000007-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 40,
+        "hostname": "10.0.0.58",
+        "ip": "10.0.0.58",
+        "status": 0,
+        "sysName": "os6860e-satit",
+        "os": "aos7",
+        "hardware": "OS6860E-U28",
+        "location": "CH-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923623,
+          13.277968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 41,
+        "hostname": "10.0.0.62",
+        "ip": "10.0.0.62",
+        "status": 0,
+        "sysName": "taothong2-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "TaoThong2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.928386,
+          13.277064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 42,
+        "hostname": "10.0.0.66",
+        "ip": "10.0.0.66",
+        "status": 0,
+        "sysName": "tao-thong_hotel",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "New-Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927218,
+          13.280819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 43,
+        "hostname": "10.0.0.70",
+        "ip": "10.0.0.70",
+        "status": 0,
+        "sysName": "buu-wan-campus",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "Computer-Center-BUU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 44,
+        "hostname": "10.0.0.86",
+        "ip": "10.0.0.86",
+        "status": 1,
+        "sysName": "computercenter_kb-os6860e",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "ComputerCenter_KB_BUCC631501701000103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 3,
+        "hostname": "10.0.128.1",
+        "ip": "10.0.128.1",
+        "status": 0,
+        "sysName": "core-os6900-x72",
+        "os": "aos7",
+        "hardware": "OS6900-X72",
+        "location": "DC-BUCC_641502703000002-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 4,
+        "hostname": "10.0.132.1",
+        "ip": "10.0.132.1",
+        "status": 1,
+        "sysName": "oaw-4550-master",
+        "os": "arubaos",
+        "hardware": "OAW-4550-US",
+        "location": "Computer Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 5,
+        "hostname": "10.0.132.2",
+        "ip": "10.0.132.2",
+        "status": 1,
+        "sysName": "oaw-4550-local",
+        "os": "arubaos",
+        "hardware": "OAW-4550-US",
+        "location": "Computer Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 280,
+        "hostname": "10.0.2.1",
+        "ip": "10.0.2.1",
+        "status": 0,
+        "sysName": "core-os6900-x72",
+        "os": "aos7",
+        "hardware": "OS6900-X72",
+        "location": "DC-BUCC_641502703000002-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 45,
+        "hostname": "10.0.2.104",
+        "ip": "10.0.2.104",
+        "status": 1,
+        "sysName": "ph-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "PublicHealth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923119,
+          13.283528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 46,
+        "hostname": "10.0.2.105",
+        "ip": "10.0.2.105",
+        "status": 1,
+        "sysName": "nursen506",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "Floor_5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 47,
+        "hostname": "10.0.2.108",
+        "ip": "10.0.2.108",
+        "status": 1,
+        "sysName": "conservation",
+        "os": "aos6",
+        "hardware": null,
+        "location": "Conservation_"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924856,
+          13.280647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 48,
+        "hostname": "10.0.2.109",
+        "ip": "10.0.2.109",
+        "status": 1,
+        "sysName": "rmcs",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "RMCS_BUCC591502404000026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 49,
+        "hostname": "10.0.2.111",
+        "ip": "10.0.2.111",
+        "status": 1,
+        "sysName": "psd-fl8-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "PSD_BUCC591502404000007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 50,
+        "hostname": "10.0.2.112",
+        "ip": "10.0.2.112",
+        "status": 1,
+        "sysName": "facart-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Fac_of_Art_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924342,
+          13.27843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 51,
+        "hostname": "10.0.2.113",
+        "ip": "10.0.2.113",
+        "status": 1,
+        "sysName": "nurse-fl6",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "Nurse-Fl6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 52,
+        "hostname": "10.0.2.114",
+        "ip": "10.0.2.114",
+        "status": 1,
+        "sysName": "marinsci-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MarinSci-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924535,
+          13.284384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 53,
+        "hostname": "10.0.2.115",
+        "ip": "10.0.2.115",
+        "status": 1,
+        "sysName": "6224-eastart",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "EastArt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924203,
+          13.277934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 54,
+        "hostname": "10.0.2.119",
+        "ip": "10.0.2.119",
+        "status": 1,
+        "sysName": "academic_service-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Academic_Service"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926751,
+          13.279923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 55,
+        "hostname": "10.0.2.123",
+        "ip": "10.0.2.123",
+        "status": 1,
+        "sysName": "os6560_bucc631501701000109",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "ComputerCenter_BUCC631501701000109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 56,
+        "hostname": "10.0.2.128",
+        "ip": "10.0.2.128",
+        "status": 1,
+        "sysName": "logistic-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Logistic__BUCC591502404000013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925419,
+          13.279747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 57,
+        "hostname": "10.0.2.129",
+        "ip": "10.0.2.129",
+        "status": 0,
+        "sysName": "gspa-mpa-old",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "GSPA-or-MPA-old"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 58,
+        "hostname": "10.0.2.130",
+        "ip": "10.0.2.130",
+        "status": 1,
+        "sysName": "6224-student2",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 59,
+        "hostname": "10.0.2.131",
+        "ip": "10.0.2.131",
+        "status": 0,
+        "sysName": "nursedorm-fl3",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "NurseDorm-FL3_BUCC631502404000015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 60,
+        "hostname": "10.0.2.132",
+        "ip": "10.0.2.132",
+        "status": 0,
+        "sysName": "guesthouse-6224",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "GuestHouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 61,
+        "hostname": "10.0.2.133",
+        "ip": "10.0.2.133",
+        "status": 1,
+        "sysName": "inv-fl1-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "INV-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 62,
+        "hostname": "10.0.2.134",
+        "ip": "10.0.2.134",
+        "status": 1,
+        "sysName": "eastart-office",
+        "os": "aos",
+        "hardware": "OmniStack LS 6212P",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 64,
+        "hostname": "10.0.2.136",
+        "ip": "10.0.2.136",
+        "status": 1,
+        "sysName": "os6350fl2-mupa",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Music_FL2-BUCC591502404000030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926708,
+          13.284421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 65,
+        "hostname": "10.0.2.137",
+        "ip": "10.0.2.137",
+        "status": 1,
+        "sysName": "marinesci-fl1",
+        "os": "aos",
+        "hardware": "OmniStack LS 6212",
+        "location": "MarineSci-Fl1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924535,
+          13.284384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 66,
+        "hostname": "10.0.2.138",
+        "ip": "10.0.2.138",
+        "status": 1,
+        "sysName": "os6360-marinesci-office",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "MarineSci-Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924535,
+          13.284384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 67,
+        "hostname": "10.0.2.139",
+        "ip": "10.0.2.139",
+        "status": 1,
+        "sysName": "marinesci-fl2",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "MarineSci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924535,
+          13.284384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 68,
+        "hostname": "10.0.2.14",
+        "ip": "10.0.2.14",
+        "status": 1,
+        "sysName": "krasae-huso",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Krasae_BUCC591502404000037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 69,
+        "hostname": "10.0.2.140",
+        "ip": "10.0.2.140",
+        "status": 1,
+        "sysName": "condo2-os6400",
+        "os": "aos6",
+        "hardware": "OS6450-U24X",
+        "location": "Condo2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.929342,
+          13.270178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 70,
+        "hostname": "10.0.2.141",
+        "ip": "10.0.2.141",
+        "status": 1,
+        "sysName": "condomeechai1-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "CondoMeechai1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.928891,
+          13.269907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 71,
+        "hostname": "10.0.2.142",
+        "ip": "10.0.2.142",
+        "status": 1,
+        "sysName": "6224-chinastudy",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "China-Study"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927308,
+          13.273354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 72,
+        "hostname": "10.0.2.143",
+        "ip": "10.0.2.143",
+        "status": 0,
+        "sysName": "os6350-24-dorm14",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Dorm14_BUCC591502404000035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 73,
+        "hostname": "10.0.2.144",
+        "ip": "10.0.2.144",
+        "status": 0,
+        "sysName": "dorm15_os6350-24",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Dorm15_BUCC591502404000034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 74,
+        "hostname": "10.0.2.145",
+        "ip": "10.0.2.145",
+        "status": 1,
+        "sysName": "office-reg-6450",
+        "os": "aos6",
+        "hardware": "OS6450-48",
+        "location": "Student_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 75,
+        "hostname": "10.0.2.146",
+        "ip": "10.0.2.146",
+        "status": 1,
+        "sysName": "office-student-fl1",
+        "os": "aos6",
+        "hardware": "OS6250-24",
+        "location": "Student_Building_FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 76,
+        "hostname": "10.0.2.147",
+        "ip": "10.0.2.147",
+        "status": 1,
+        "sysName": "condomeechai2-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "CondoMeechai2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.929342,
+          13.270178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 284,
+        "hostname": "10.0.2.148",
+        "ip": "10.0.2.148",
+        "status": 1,
+        "sysName": "studentaffairconsult",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "StudentL2-BUCC631502404000010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 77,
+        "hostname": "10.0.2.149",
+        "ip": "10.0.2.149",
+        "status": 1,
+        "sysName": "engineer-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Engineer-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9249,
+          13.276041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 78,
+        "hostname": "10.0.2.150",
+        "ip": "10.0.2.150",
+        "status": 1,
+        "sysName": "os6350-electrical_eng",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Electrical-Engineer_BUCC591502404000009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925327,
+          13.275378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 79,
+        "hostname": "10.0.2.151",
+        "ip": "10.0.2.151",
+        "status": 1,
+        "sysName": "os6350-civil_eng",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Civil-Engineer_BUCC591502404000022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92482,
+          13.274825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 80,
+        "hostname": "10.0.2.152",
+        "ip": "10.0.2.152",
+        "status": 1,
+        "sysName": "os6350-mechanical_eng",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Mechanical-Engineer_BUCC591502404000006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925359,
+          13.27377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 81,
+        "hostname": "10.0.2.153",
+        "ip": "10.0.2.153",
+        "status": 1,
+        "sysName": "os6350-industrial_eng",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Industrial-Engineer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925668,
+          13.274667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 82,
+        "hostname": "10.0.2.154",
+        "ip": "10.0.2.154",
+        "status": 1,
+        "sysName": "os6350-chemi_eng",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Chemical-Engineer_BUCC591502404000011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924884,
+          13.274415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 83,
+        "hostname": "10.0.2.155",
+        "ip": "10.0.2.155",
+        "status": 1,
+        "sysName": "cc209-os6400-24",
+        "os": "aos6",
+        "hardware": "OS6400-24",
+        "location": "ComputerCenter_BUCC561501701000034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 277,
+        "hostname": "10.0.2.157",
+        "ip": "10.0.2.157",
+        "status": 0,
+        "sysName": "cultureart",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "CultureArt_BUCC591502404000044"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925689,
+          13.285376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 84,
+        "hostname": "10.0.2.159",
+        "ip": "10.0.2.159",
+        "status": 1,
+        "sysName": "condo1-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Condo1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.928891,
+          13.269907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 85,
+        "hostname": "10.0.2.161",
+        "ip": "10.0.2.161",
+        "status": 1,
+        "sysName": "condo3",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "BUCC591502404000018"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 86,
+        "hostname": "10.0.2.162",
+        "ip": "10.0.2.162",
+        "status": 1,
+        "sysName": "nursedorm-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "NurseDorm-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922197,
+          13.282691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 87,
+        "hostname": "10.0.2.163",
+        "ip": "10.0.2.163",
+        "status": 1,
+        "sysName": "psd-fl7-os6350-lan",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PSD-Building-FL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 88,
+        "hostname": "10.0.2.164",
+        "ip": "10.0.2.164",
+        "status": 1,
+        "sysName": "nursecharermphakiat",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse-CharermPhakiat_BUCC591502404000038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923607,
+          13.282677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 89,
+        "hostname": "10.0.2.165",
+        "ip": "10.0.2.165",
+        "status": 1,
+        "sysName": "graphic-art",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Graphic-Art_BUCC591502404000040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925689,
+          13.285376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 90,
+        "hostname": "10.0.2.168",
+        "ip": "10.0.2.168",
+        "status": 1,
+        "sysName": "staduim-6350-24",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Stadium_BUCC591502404000041"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92872,
+          13.275055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 91,
+        "hostname": "10.0.2.169",
+        "ip": "10.0.2.169",
+        "status": 1,
+        "sysName": "finlearn-os6450_fl3-layer2",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "FinLearn-OS6450_FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925576,
+          13.283001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 92,
+        "hostname": "10.0.2.170",
+        "ip": "10.0.2.170",
+        "status": 1,
+        "sysName": "kb_lecture",
+        "os": "aos6",
+        "hardware": "OS6850-24",
+        "location": "KB-FL2_LECTURE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 93,
+        "hostname": "10.0.2.172",
+        "ip": "10.0.2.172",
+        "status": 1,
+        "sysName": "kb-m200-os6450p",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Lecture-FL2-Meeting200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 94,
+        "hostname": "10.0.2.173",
+        "ip": "10.0.2.173",
+        "status": 1,
+        "sysName": "lecture-b-fl3",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 95,
+        "hostname": "10.0.2.174",
+        "ip": "10.0.2.174",
+        "status": 1,
+        "sysName": "lecture-b-fl4",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 96,
+        "hostname": "10.0.2.175",
+        "ip": "10.0.2.175",
+        "status": 1,
+        "sysName": "lecture-b-fl5",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 97,
+        "hostname": "10.0.2.177",
+        "ip": "10.0.2.177",
+        "status": 1,
+        "sysName": "student-fl2-os6450-p10",
+        "os": "aos6",
+        "hardware": "OS6450-P10",
+        "location": "Student-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 98,
+        "hostname": "10.0.2.178",
+        "ip": "10.0.2.178",
+        "status": 1,
+        "sysName": "psd-fl7-os6450-wifi",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "PSD-Building-FL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 99,
+        "hostname": "10.0.2.179",
+        "ip": "10.0.2.179",
+        "status": 1,
+        "sysName": "computercenter_kb-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "ComputerCenter_KB_BUCC631501701000113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 100,
+        "hostname": "10.0.2.182",
+        "ip": "10.0.2.182",
+        "status": 1,
+        "sysName": "kb6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "KB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 101,
+        "hostname": "10.0.2.19",
+        "ip": "10.0.2.19",
+        "status": 1,
+        "sysName": "os6350-student-office",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Student-Office_BUCC591502404000019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926944,
+          13.279169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 102,
+        "hostname": "10.0.2.191",
+        "ip": "10.0.2.191",
+        "status": 1,
+        "sysName": "os6560-inv",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "INV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 103,
+        "hostname": "10.0.2.192",
+        "ip": "10.0.2.192",
+        "status": 1,
+        "sysName": "os6200_inv_fl1",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "INV_FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 104,
+        "hostname": "10.0.2.193",
+        "ip": "10.0.2.193",
+        "status": 1,
+        "sysName": "os6200_inv_fl3",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "INV_FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 105,
+        "hostname": "10.0.2.194",
+        "ip": "10.0.2.194",
+        "status": 1,
+        "sysName": "os6200_inv_fl4",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "INV_FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 106,
+        "hostname": "10.0.2.195",
+        "ip": "10.0.2.195",
+        "status": 1,
+        "sysName": "os6200_inv_fl5",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "INV_FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 107,
+        "hostname": "10.0.2.196",
+        "ip": "10.0.2.196",
+        "status": 0,
+        "sysName": "os6200_inv_fl6",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "INV_FL6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926424,
+          13.278093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 108,
+        "hostname": "10.0.2.197",
+        "ip": "10.0.2.197",
+        "status": 1,
+        "sysName": "dr-kb-os6900x20",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "DR-KB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 109,
+        "hostname": "10.0.2.20",
+        "ip": "10.0.2.20",
+        "status": 1,
+        "sysName": "psd-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PSD_BUCC591502404000008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 1,
+        "hostname": "10.0.2.201",
+        "ip": "10.0.2.201",
+        "status": 1,
+        "sysName": "bucc-lan-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Computer-Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 110,
+        "hostname": "10.0.2.202",
+        "ip": "10.0.2.202",
+        "status": 1,
+        "sysName": "bucc-lan2-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Computer-Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 111,
+        "hostname": "10.0.2.203",
+        "ip": "10.0.2.203",
+        "status": 1,
+        "sysName": "cc206-6350-24",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "computerCenter-cc206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 112,
+        "hostname": "10.0.2.204",
+        "ip": "10.0.2.204",
+        "status": 1,
+        "sysName": "cc301-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "ComputerCenter_BUCC631502404000004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 113,
+        "hostname": "10.0.2.206",
+        "ip": "10.0.2.206",
+        "status": 1,
+        "sysName": "cc101-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "ComputerCenter_BUCC631502404000009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 114,
+        "hostname": "10.0.2.208",
+        "ip": "10.0.2.208",
+        "status": 1,
+        "sysName": "cc204-6350-24",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "ComputerCenter_BUCC591502404000016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 115,
+        "hostname": "10.0.2.209",
+        "ip": "10.0.2.209",
+        "status": 1,
+        "sysName": "os6350-bucc108-109",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "BUCC108-109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 116,
+        "hostname": "10.0.2.210",
+        "ip": "10.0.2.210",
+        "status": 1,
+        "sysName": "cc109-os6350-2",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "ComputerCenter_BUCC631502404000007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 117,
+        "hostname": "10.0.2.212",
+        "ip": "10.0.2.212",
+        "status": 1,
+        "sysName": "cc212-6350-48",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "ComputerCenter_BUCC591502404000003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 118,
+        "hostname": "10.0.2.213",
+        "ip": "10.0.2.213",
+        "status": 1,
+        "sysName": "cc213-6350-24",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "ComputerCenter_BUCC591502404000043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 119,
+        "hostname": "10.0.2.215",
+        "ip": "10.0.2.215",
+        "status": 1,
+        "sysName": "os6350",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "OS6350"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 120,
+        "hostname": "10.0.2.216",
+        "ip": "10.0.2.216",
+        "status": 1,
+        "sysName": "takraw",
+        "os": "aos",
+        "hardware": "OmniStack LS 6212P",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 121,
+        "hostname": "10.0.2.219",
+        "ip": "10.0.2.219",
+        "status": 1,
+        "sysName": "dorm50b",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Dorm50B_OS6350-24FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925699,
+          13.282353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 122,
+        "hostname": "10.0.2.220",
+        "ip": "10.0.2.220",
+        "status": 1,
+        "sysName": "taothong50a",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "TaoThong50A_OS6350-24FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.928634,
+          13.277848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 123,
+        "hostname": "10.0.2.224",
+        "ip": "10.0.2.224",
+        "status": 1,
+        "sysName": "os6350-psd-adm-fl3-1",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "PSD_BUCC591502404000029"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 124,
+        "hostname": "10.0.2.225",
+        "ip": "10.0.2.225",
+        "status": 1,
+        "sysName": "ls6248-psd_fl3",
+        "os": "aos",
+        "hardware": "OmniStack LS 6248",
+        "location": "OS6350-PSD-ADM-FL3-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 125,
+        "hostname": "10.0.2.229",
+        "ip": "10.0.2.229",
+        "status": 1,
+        "sysName": "pharm-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Pharmaceutical-Sci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 126,
+        "hostname": "10.0.2.231",
+        "ip": "10.0.2.231",
+        "status": 1,
+        "sysName": "rack4-os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "DC-BUCC_631501701000110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 127,
+        "hostname": "10.0.2.232",
+        "ip": "10.0.2.232",
+        "status": 1,
+        "sysName": "rack5-1_os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "DC-BUCC_631501701000108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 128,
+        "hostname": "10.0.2.233",
+        "ip": "10.0.2.233",
+        "status": 1,
+        "sysName": "rack5-2_os6560",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "DC-BUCC_631501701000123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 129,
+        "hostname": "10.0.2.241",
+        "ip": "10.0.2.241",
+        "status": 0,
+        "sysName": "psd-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "PSD-Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 130,
+        "hostname": "10.0.2.243",
+        "ip": "10.0.2.243",
+        "status": 1,
+        "sysName": "psd-fl4-os6450-2",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "PSD-Building-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 131,
+        "hostname": "10.0.2.245",
+        "ip": "10.0.2.245",
+        "status": 1,
+        "sysName": "lib-os6850",
+        "os": "aos6",
+        "hardware": "OS6850-24",
+        "location": "LIB_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 132,
+        "hostname": "10.0.2.248",
+        "ip": "10.0.2.248",
+        "status": 1,
+        "sysName": "rack3-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "DC-BUCC_591502704000031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 133,
+        "hostname": "10.0.2.251",
+        "ip": "10.0.2.251",
+        "status": 0,
+        "sysName": "ci-fabric-01",
+        "os": "dell-os10",
+        "hardware": "s4128Fon",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 134,
+        "hostname": "10.0.2.252",
+        "ip": "10.0.2.252",
+        "status": 1,
+        "sysName": "ci-fabric-02",
+        "os": "dell-os10",
+        "hardware": "s4128Fon",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 135,
+        "hostname": "10.0.2.253",
+        "ip": "10.0.2.253",
+        "status": 1,
+        "sysName": "engineer-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "Engineer_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9249,
+          13.276041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 136,
+        "hostname": "10.0.2.3",
+        "ip": "10.0.2.3",
+        "status": 1,
+        "sysName": "edu-resrh-ateng-5",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "ENG FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9249,
+          13.276041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 137,
+        "hostname": "10.0.2.30",
+        "ip": "10.0.2.30",
+        "status": 1,
+        "sysName": "dorm50-2",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 138,
+        "hostname": "10.0.2.31",
+        "ip": "10.0.2.31",
+        "status": 1,
+        "sysName": "6450-p10_sw1_ap_bucc",
+        "os": "aos6",
+        "hardware": "OS6450-P10",
+        "location": "BUCC_FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 139,
+        "hostname": "10.0.2.32",
+        "ip": "10.0.2.32",
+        "status": 1,
+        "sysName": "6450-p10_sw2_ap_bucc",
+        "os": "aos6",
+        "hardware": "OS6450-P10",
+        "location": "BUCC_FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 140,
+        "hostname": "10.0.2.4",
+        "ip": "10.0.2.4",
+        "status": 1,
+        "sysName": "engineer_building",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "Engineer_BUCC591502704000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9249,
+          13.276041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 141,
+        "hostname": "10.0.2.45",
+        "ip": "10.0.2.45",
+        "status": 1,
+        "sysName": "network2-os6350",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "DC-BUCC_591502404000042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 142,
+        "hostname": "10.0.2.51",
+        "ip": "10.0.2.51",
+        "status": 1,
+        "sysName": "marine_multipurpose",
+        "os": "aos",
+        "hardware": "OmniStack LS 6224",
+        "location": "MarineSci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924535,
+          13.284384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 143,
+        "hostname": "10.0.2.6",
+        "ip": "10.0.2.6",
+        "status": 1,
+        "sysName": "lib-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "Library_BUCC591502704000005-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 144,
+        "hostname": "10.0.2.7",
+        "ip": "10.0.2.7",
+        "status": 1,
+        "sysName": "psd-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "PSD_BUCC591502704000003-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 145,
+        "hostname": "10.0.2.9",
+        "ip": "10.0.2.9",
+        "status": 0,
+        "sysName": "srtn-os6900x72",
+        "os": "aos7",
+        "hardware": "OS6900-X72",
+        "location": "SRTN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 6,
+        "hostname": "10.104.0.21",
+        "ip": "10.104.0.21",
+        "status": 0,
+        "sysName": "psd-conf1",
+        "os": "generic",
+        "hardware": null,
+        "location": "350 West Java Dr. Sunnyvale, CA 94089 US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 146,
+        "hostname": "10.12.2.11",
+        "ip": "10.12.2.11",
+        "status": 1,
+        "sysName": "os6350fl1-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 147,
+        "hostname": "10.12.2.12",
+        "ip": "10.12.2.12",
+        "status": 1,
+        "sysName": "os350fl2-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 148,
+        "hostname": "10.12.2.13",
+        "ip": "10.12.2.13",
+        "status": 1,
+        "sysName": "os350fl3-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 149,
+        "hostname": "10.12.2.14",
+        "ip": "10.12.2.14",
+        "status": 1,
+        "sysName": "os350fl4-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 150,
+        "hostname": "10.12.2.15",
+        "ip": "10.12.2.15",
+        "status": 1,
+        "sysName": "os350fl5-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 151,
+        "hostname": "10.12.2.16",
+        "ip": "10.12.2.16",
+        "status": 1,
+        "sysName": "os350fl6-wifi-nurse",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Nurse_Building-FL6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 152,
+        "hostname": "10.12.2.17",
+        "ip": "10.12.2.17",
+        "status": 1,
+        "sysName": "os350fl2-wifi-q6c",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Q6C_Building-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 153,
+        "hostname": "10.12.2.18",
+        "ip": "10.12.2.18",
+        "status": 1,
+        "sysName": "os350fl3-wifi-q6c",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Q6C_Building-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 154,
+        "hostname": "10.12.2.19",
+        "ip": "10.12.2.19",
+        "status": 1,
+        "sysName": "os350fl5-wifi-q6c",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Q6C_Building-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 155,
+        "hostname": "10.12.2.2",
+        "ip": "10.12.2.2",
+        "status": 1,
+        "sysName": "os6860e-corewifi-nurse",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "Nurse_Building-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 11,
+        "hostname": "10.12.2.254",
+        "ip": "10.12.2.254",
+        "status": 1,
+        "sysName": "iap-q6c-fl5-1",
+        "os": "arubaos",
+        "hardware": "OAW-AP305",
+        "location": "Nurse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923103,
+          13.282813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 32,
+        "hostname": "10.14.0.11",
+        "ip": "10.14.0.11",
+        "status": 1,
+        "sysName": "cc-pabx",
+        "os": "omnipcx",
+        "hardware": null,
+        "location": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 286,
+        "hostname": "10.16.21.40",
+        "ip": "10.16.21.40",
+        "status": 0,
+        "sysName": "main_sw_ahs",
+        "os": "jetstream",
+        "hardware": "SG3452X 1.20",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 12,
+        "hostname": "10.18.0.10",
+        "ip": "10.18.0.10",
+        "status": 1,
+        "sysName": "science-wlan",
+        "os": "arubaos",
+        "hardware": "OAW-4504",
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 156,
+        "hostname": "10.18.250.10",
+        "ip": "10.18.250.10",
+        "status": 1,
+        "sysName": "srtn-os6450p-fl1",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "SRTN-Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 157,
+        "hostname": "10.18.250.120",
+        "ip": "10.18.250.120",
+        "status": 1,
+        "sysName": "os6350-biosci-fl2",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "BioSci-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924758,
+          13.280403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 158,
+        "hostname": "10.18.250.150",
+        "ip": "10.18.250.150",
+        "status": 1,
+        "sysName": "biosci-os6560-48x4",
+        "os": "aos7",
+        "hardware": "OS6560-48X4",
+        "location": "Bio-Sci_FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924758,
+          13.280403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 159,
+        "hostname": "10.18.250.151",
+        "ip": "10.18.250.151",
+        "status": 1,
+        "sysName": "os6350-biosci-fl5",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "BioSci-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924758,
+          13.280403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 160,
+        "hostname": "10.18.250.220",
+        "ip": "10.18.250.220",
+        "status": 1,
+        "sysName": "laboratory-fl2-os6560-p48x4",
+        "os": "aos7",
+        "hardware": "OS6560-P48X4",
+        "location": "SCI-LABORATORY-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9246,
+          13.281028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 161,
+        "hostname": "10.18.250.250",
+        "ip": "10.18.250.250",
+        "status": 1,
+        "sysName": "laboratory-fl5-os6350-p48",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "SCI-LABORATORY-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.9246,
+          13.281028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 162,
+        "hostname": "10.18.250.30",
+        "ip": "10.18.250.30",
+        "status": 1,
+        "sysName": "os6360ph24-sirindhorn-fl3",
+        "os": "aos7",
+        "hardware": "OS6360-PH24",
+        "location": "Sirindhorn-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924703,
+          13.281828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 163,
+        "hostname": "10.18.250.50",
+        "ip": "10.18.250.50",
+        "status": 1,
+        "sysName": "os6360ph24-sirindhorn-fl5",
+        "os": "aos7",
+        "hardware": "OS6360-PH24",
+        "location": "Sirindhorn-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924703,
+          13.281828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 164,
+        "hostname": "10.18.250.51",
+        "ip": "10.18.250.51",
+        "status": 1,
+        "sysName": "vxtarget",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "SRTN-Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 165,
+        "hostname": "10.18.250.52",
+        "ip": "10.18.250.52",
+        "status": 1,
+        "sysName": "srtn-os6450",
+        "os": "aos6",
+        "hardware": "OS6450-24",
+        "location": "SRTN-Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 166,
+        "hostname": "10.18.250.60",
+        "ip": "10.18.250.60",
+        "status": 1,
+        "sysName": "math-os6560-24x4",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Math-Sci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925914,
+          13.280693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 167,
+        "hostname": "10.18.250.70",
+        "ip": "10.18.250.70",
+        "status": 1,
+        "sysName": "foodsci-os6560-48x4",
+        "os": "aos7",
+        "hardware": "OS6560-48X4",
+        "location": "Food-Sci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925657,
+          13.280359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 168,
+        "hostname": "10.18.250.80",
+        "ip": "10.18.250.80",
+        "status": 1,
+        "sysName": "physicsci-os6560-24x4",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Physic-Sci_"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925472,
+          13.281011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 169,
+        "hostname": "10.18.250.90",
+        "ip": "10.18.250.90",
+        "status": 1,
+        "sysName": "chemsci-os6560-24x4",
+        "os": "aos7",
+        "hardware": "OS6560-24X4",
+        "location": "Chem-Sci_"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925437,
+          13.281395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 171,
+        "hostname": "10.24.255.21",
+        "ip": "10.24.255.21",
+        "status": 1,
+        "sysName": "edu-os6860e-vc",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "EDU-FL2 Server Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924047,
+          13.279425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 170,
+        "hostname": "10.26.255.100",
+        "ip": "10.26.255.100",
+        "status": 1,
+        "sysName": "os635048-inter-fl1-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Inter-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 172,
+        "hostname": "10.26.255.101",
+        "ip": "10.26.255.101",
+        "status": 1,
+        "sysName": "os635048-inter-fl1-2",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Inter-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 173,
+        "hostname": "10.26.255.102",
+        "ip": "10.26.255.102",
+        "status": 1,
+        "sysName": "os635048-inter-fl1-3",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Inter-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 174,
+        "hostname": "10.26.255.103",
+        "ip": "10.26.255.103",
+        "status": 1,
+        "sysName": "os635048-inter-fl2-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Inter-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 175,
+        "hostname": "10.26.255.104",
+        "ip": "10.26.255.104",
+        "status": 1,
+        "sysName": "os6350p24-inter-fl2-2",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "Inter-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 176,
+        "hostname": "10.26.255.105",
+        "ip": "10.26.255.105",
+        "status": 1,
+        "sysName": "os635048-inter-fl3-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Inter-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 177,
+        "hostname": "10.26.255.106",
+        "ip": "10.26.255.106",
+        "status": 1,
+        "sysName": "os6350p24-inter-fl3-2",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "Inter-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 178,
+        "hostname": "10.26.255.2",
+        "ip": "10.26.255.2",
+        "status": 1,
+        "sysName": "os6560p48x4-satit",
+        "os": "aos7",
+        "hardware": "OS6560-P48X4",
+        "location": "CH-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923623,
+          13.277968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 179,
+        "hostname": "10.26.255.20",
+        "ip": "10.26.255.20",
+        "status": 0,
+        "sysName": "os6350p48-pp1-fl1",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "PP1-FL1-PP106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 180,
+        "hostname": "10.26.255.3",
+        "ip": "10.26.255.3",
+        "status": 1,
+        "sysName": "os635024-muttayom-room",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "CH-FL1-Muttayom-Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923623,
+          13.277968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 181,
+        "hostname": "10.26.255.4",
+        "ip": "10.26.255.4",
+        "status": 1,
+        "sysName": "os635024-practicalexperienc",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "CH-FL1-PracticalExperience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923623,
+          13.277968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 182,
+        "hostname": "10.26.255.40",
+        "ip": "10.26.255.40",
+        "status": 1,
+        "sysName": "os6350p48-pr-fl1",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "PR-FL1-PR102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 183,
+        "hostname": "10.26.255.50",
+        "ip": "10.26.255.50",
+        "status": 1,
+        "sysName": "os6350p24-pb1-fl2",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PB1-FL2-PB206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 184,
+        "hostname": "10.26.255.80",
+        "ip": "10.26.255.80",
+        "status": 1,
+        "sysName": "os6350p24-ps",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 185,
+        "hostname": "10.26.255.90",
+        "ip": "10.26.255.90",
+        "status": 1,
+        "sysName": "os6350p48-library-fl2",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "LearningCenter-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 186,
+        "hostname": "10.26.255.91",
+        "ip": "10.26.255.91",
+        "status": 1,
+        "sysName": "os635024-library-fl1",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "LearningCenter-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 187,
+        "hostname": "10.28.254.10",
+        "ip": "10.28.254.10",
+        "status": 1,
+        "sysName": "ac6508-bbs",
+        "os": "vrp",
+        "hardware": "AC6508",
+        "location": "Burapha Business School FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927738,
+          13.272961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 13,
+        "hostname": "10.32.254.10",
+        "ip": "10.32.254.10",
+        "status": 1,
+        "sysName": "library-controller",
+        "os": "arubaos",
+        "hardware": "OAW-4030",
+        "location": "Library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 188,
+        "hostname": "10.32.255.12",
+        "ip": "10.32.255.12",
+        "status": 1,
+        "sysName": "os6350-lib-server-room",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "Library-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 189,
+        "hostname": "10.32.255.2",
+        "ip": "10.32.255.2",
+        "status": 1,
+        "sysName": "os6560-sever-zone",
+        "os": "aos7",
+        "hardware": "OS6560-X10",
+        "location": "Library-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 190,
+        "hostname": "10.32.255.22",
+        "ip": "10.32.255.22",
+        "status": 1,
+        "sysName": "os6350-lib-fl2",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "Library-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 191,
+        "hostname": "10.32.255.4",
+        "ip": "10.32.255.4",
+        "status": 1,
+        "sysName": "os6900t20-server",
+        "os": "aos7",
+        "hardware": "OS6900-T20",
+        "location": "Library-Server-Room"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924873,
+          13.279367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 14,
+        "hostname": "10.36.10.10",
+        "ip": "10.36.10.10",
+        "status": 1,
+        "sysName": "huso-wlan1",
+        "os": "ruckuswireless-sz",
+        "hardware": "SZ104",
+        "location": "350 West Java Dr. Sunnyvale, CA 94089 USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 15,
+        "hostname": "10.36.101.10",
+        "ip": "10.36.101.10",
+        "status": 1,
+        "sysName": "huso-ctrl-01",
+        "os": "arubaos",
+        "hardware": "Dell PowerConnect W-7030 Controller",
+        "location": "HUSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92593,
+          13.27731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 192,
+        "hostname": "10.36.255.1",
+        "ip": "10.36.255.1",
+        "status": 1,
+        "sysName": "os6860e-krasae",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "Krasae-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 193,
+        "hostname": "10.36.255.11",
+        "ip": "10.36.255.11",
+        "status": 1,
+        "sysName": "os6450-krasae-fl1",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Krasae-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 194,
+        "hostname": "10.36.255.21",
+        "ip": "10.36.255.21",
+        "status": 1,
+        "sysName": "os6450-krasae-fl2",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Krasae-FL2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 195,
+        "hostname": "10.36.255.41",
+        "ip": "10.36.255.41",
+        "status": 1,
+        "sysName": "os6450-krasae-fl4",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Krasae-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 196,
+        "hostname": "10.36.255.51",
+        "ip": "10.36.255.51",
+        "status": 1,
+        "sysName": "os6450-krasae-fl5",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Krasae-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 197,
+        "hostname": "10.36.255.61",
+        "ip": "10.36.255.61",
+        "status": 1,
+        "sysName": "os6450-krasae-fl6",
+        "os": "aos6",
+        "hardware": "OS6450-P24",
+        "location": "Krasae-FL6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92557,
+          13.276972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 198,
+        "hostname": "10.4.0.130",
+        "ip": "10.4.0.130",
+        "status": 1,
+        "sysName": "os6900-v72",
+        "os": "aos7",
+        "hardware": "OS6900-V72",
+        "location": "ComputerCenter_BUCC631502703000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 273,
+        "hostname": "10.4.0.33",
+        "ip": "10.4.0.33",
+        "status": 1,
+        "sysName": "fortigate-buu.buu.ac.th",
+        "os": "fortigate",
+        "hardware": "FGT_3400E",
+        "location": "BUCC651502709000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 33,
+        "hostname": "10.4.1.11",
+        "ip": "10.4.1.11",
+        "status": 1,
+        "sysName": "infoblox",
+        "os": "nios",
+        "hardware": "IB-1425",
+        "location": "BUCC-651501406000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 21,
+        "hostname": "10.4.1.47",
+        "ip": "10.4.1.47",
+        "status": 1,
+        "sysName": "radiusvpn1",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Sitting on the Dock of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 22,
+        "hostname": "10.4.1.48",
+        "ip": "10.4.1.48",
+        "status": 1,
+        "sysName": "radiusvpn2",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Sitting on the Dock of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 274,
+        "hostname": "10.4.1.57",
+        "ip": "10.4.1.57",
+        "status": 1,
+        "sysName": "radius-eduroam-01",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 23,
+        "hostname": "10.4.1.58",
+        "ip": "10.4.1.58",
+        "status": 1,
+        "sysName": "radius-eduroam-02",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 24,
+        "hostname": "10.4.19.254",
+        "ip": "10.4.19.254",
+        "status": 1,
+        "sysName": "vpn-staff",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 199,
+        "hostname": "10.4.2.6",
+        "ip": "10.4.2.6",
+        "status": 0,
+        "sysName": "wan-jan-os6860e",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "BUU-JAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 25,
+        "hostname": "10.4.20.254",
+        "ip": "10.4.20.254",
+        "status": 1,
+        "sysName": "vpn-student",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 282,
+        "hostname": "10.4.4.11",
+        "ip": "10.4.4.11",
+        "status": 1,
+        "sysName": "faz-800g",
+        "os": "fortios",
+        "hardware": null,
+        "location": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 283,
+        "hostname": "10.4.40.254",
+        "ip": "10.4.40.254",
+        "status": 1,
+        "sysName": "ruckus-bucc",
+        "os": "generic",
+        "hardware": null,
+        "location": "Computer Center, Burapha University"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 20,
+        "hostname": "10.4.6.160",
+        "ip": "10.4.6.160",
+        "status": 1,
+        "sysName": "infra-storage",
+        "os": "buffalo",
+        "hardware": "TeraStation TS3400D",
+        "location": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 200,
+        "hostname": "10.4.6.183",
+        "ip": "10.4.6.183",
+        "status": 1,
+        "sysName": "ht8xx",
+        "os": "grandstream-ht",
+        "hardware": null,
+        "location": "HT8xx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 16,
+        "hostname": "10.44.20.9",
+        "ip": "10.44.20.9",
+        "status": 1,
+        "sysName": "psl_7030",
+        "os": "arubaos",
+        "hardware": "Aruba7030",
+        "location": "FACULTY OF POLITICAL SCIENCE AND LAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.925804,
+          13.279671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 201,
+        "hostname": "10.47.0.1",
+        "ip": "10.47.0.1",
+        "status": 1,
+        "sysName": "os6860e-pharm",
+        "os": "aos7",
+        "hardware": "OS6860E-U28",
+        "location": "OS6860E_PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 202,
+        "hostname": "10.47.0.101",
+        "ip": "10.47.0.101",
+        "status": 1,
+        "sysName": "pharm-fl10",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PHARM-FL10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 203,
+        "hostname": "10.47.0.11",
+        "ip": "10.47.0.11",
+        "status": 1,
+        "sysName": "os6350-pharm-fl1",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 204,
+        "hostname": "10.47.0.121",
+        "ip": "10.47.0.121",
+        "status": 1,
+        "sysName": "os6350-pharm-fl12",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 205,
+        "hostname": "10.47.0.2",
+        "ip": "10.47.0.2",
+        "status": 1,
+        "sysName": "os6350-pharm-fl5_ap",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 206,
+        "hostname": "10.47.0.21",
+        "ip": "10.47.0.21",
+        "status": 1,
+        "sysName": "os6350-pharm-fl2",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 207,
+        "hostname": "10.47.0.3",
+        "ip": "10.47.0.3",
+        "status": 1,
+        "sysName": "os6860e-pharm-fl5",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 208,
+        "hostname": "10.47.0.31",
+        "ip": "10.47.0.31",
+        "status": 1,
+        "sysName": "os6350-pharm-fl3",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 209,
+        "hostname": "10.47.0.41",
+        "ip": "10.47.0.41",
+        "status": 1,
+        "sysName": "os6350-pharm-fl4",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 210,
+        "hostname": "10.47.0.51",
+        "ip": "10.47.0.51",
+        "status": 1,
+        "sysName": "os6350-pharm-fl5-1_office",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 211,
+        "hostname": "10.47.0.52",
+        "ip": "10.47.0.52",
+        "status": 1,
+        "sysName": "os6350-pharm-fl5-2_office",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 212,
+        "hostname": "10.47.0.56",
+        "ip": "10.47.0.56",
+        "status": 1,
+        "sysName": "os6350-pharm-fl5-1_lab",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 213,
+        "hostname": "10.47.0.57",
+        "ip": "10.47.0.57",
+        "status": 1,
+        "sysName": "os6360-pharm-fl5-2_lab",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 214,
+        "hostname": "10.47.0.58",
+        "ip": "10.47.0.58",
+        "status": 1,
+        "sysName": "os6360-pharm-fl5-3_lab",
+        "os": "aos7",
+        "hardware": "OS6360-48",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 215,
+        "hostname": "10.47.0.59",
+        "ip": "10.47.0.59",
+        "status": 1,
+        "sysName": "os6360-pharm-fl5-4_lab",
+        "os": "aos7",
+        "hardware": "OS6360-48",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 216,
+        "hostname": "10.47.0.60",
+        "ip": "10.47.0.60",
+        "status": 1,
+        "sysName": "os6360-pharm-fl5-5_lab",
+        "os": "aos7",
+        "hardware": "OS6360-48",
+        "location": "PHARM-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 217,
+        "hostname": "10.47.0.61",
+        "ip": "10.47.0.61",
+        "status": 1,
+        "sysName": "os6350-pharm-fl6",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "PHARM-FL6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 218,
+        "hostname": "10.47.0.71",
+        "ip": "10.47.0.71",
+        "status": 1,
+        "sysName": "os6350-pharm-fl7",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "PHARM-FL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 219,
+        "hostname": "10.47.0.91",
+        "ip": "10.47.0.91",
+        "status": 1,
+        "sysName": "pharm-fl9-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PHARM-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 220,
+        "hostname": "10.47.0.92",
+        "ip": "10.47.0.92",
+        "status": 1,
+        "sysName": "pharm-fl9-2",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PHARM-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 221,
+        "hostname": "10.47.0.93",
+        "ip": "10.47.0.93",
+        "status": 1,
+        "sysName": "pharm-fl9-3",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "PHARM-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 222,
+        "hostname": "10.47.0.94",
+        "ip": "10.47.0.94",
+        "status": 1,
+        "sysName": "os6350-pharm-fl9-4",
+        "os": "aos6",
+        "hardware": "OS6350-P24",
+        "location": "PHARM-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 223,
+        "hostname": "10.47.0.95",
+        "ip": "10.47.0.95",
+        "status": 0,
+        "sysName": "os6360-pharm-fl9_ap",
+        "os": "aos7",
+        "hardware": "OS6360-PH24",
+        "location": "PHARM-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 17,
+        "hostname": "10.47.99.10",
+        "ip": "10.47.99.10",
+        "status": 0,
+        "sysName": "ruckus-unleashed-pharm",
+        "os": "generic",
+        "hardware": null,
+        "location": "pharm.buu.ac.th"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926619,
+          13.281596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 26,
+        "hostname": "10.5.2.31",
+        "ip": "10.5.2.31",
+        "status": 1,
+        "sysName": "clog-server",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 275,
+        "hostname": "10.5.20.86",
+        "ip": "10.5.20.86",
+        "status": 1,
+        "sysName": "radius-vpn-01",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 276,
+        "hostname": "10.5.20.87",
+        "ip": "10.5.20.87",
+        "status": 1,
+        "sysName": "radius-vpn-02",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 224,
+        "hostname": "10.5.21.2",
+        "ip": "10.5.21.2",
+        "status": 1,
+        "sysName": "rack2-os6350-2",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "DC-BUCC_591502404000036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 225,
+        "hostname": "10.5.21.3",
+        "ip": "10.5.21.3",
+        "status": 1,
+        "sysName": "rack1-os6350-1",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "DC-BUCC_591502404000017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923677,
+          13.281555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 226,
+        "hostname": "10.5.23.33",
+        "ip": "10.5.23.33",
+        "status": 1,
+        "sysName": "dc-sw-node-01",
+        "os": "dell-os10",
+        "hardware": "s5224Fon",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 227,
+        "hostname": "10.5.23.34",
+        "ip": "10.5.23.34",
+        "status": 1,
+        "sysName": "dc-sw-node-02",
+        "os": "dell-os10",
+        "hardware": "s5224Fon",
+        "location": "United States"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 27,
+        "hostname": "10.5.4.108",
+        "ip": "10.5.4.108",
+        "status": 1,
+        "sysName": "radius-firewall2",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 28,
+        "hostname": "10.5.4.58",
+        "ip": "10.5.4.58",
+        "status": 1,
+        "sysName": "loginportal",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Sitting on the Dock of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 29,
+        "hostname": "10.5.4.64",
+        "ip": "10.5.4.64",
+        "status": 0,
+        "sysName": "satit-radius",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Sitting on the Dock of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 30,
+        "hostname": "10.5.4.65",
+        "ip": "10.5.4.65",
+        "status": 0,
+        "sysName": "radius-proxy",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Sitting on the Dock of the Bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 31,
+        "hostname": "10.5.4.74",
+        "ip": "10.5.4.74",
+        "status": 1,
+        "sysName": "radius-firewall",
+        "os": "linux",
+        "hardware": "Generic x86 64-bit",
+        "location": "Unknown (edit /etc/snmp/snmpd.conf)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 288,
+        "hostname": "10.50.12.11",
+        "ip": "10.50.12.11",
+        "status": 0,
+        "sysName": "core-xgs4600",
+        "os": "zynos",
+        "hardware": "XGS4600-32F",
+        "location": "Room CCTV FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 18,
+        "hostname": "10.50.19.10",
+        "ip": "10.50.19.10",
+        "status": 1,
+        "sysName": "marinesci-ruckus-bims-conf-bld",
+        "os": "generic",
+        "hardware": null,
+        "location": "350 West Java Dr. Sunnyvale, CA 94089 US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 19,
+        "hostname": "10.52.0.10",
+        "ip": "10.52.0.10",
+        "status": 1,
+        "sysName": "buuic-controller-1",
+        "os": "ruckuswireless-sz",
+        "hardware": "SZ104",
+        "location": "350 West Java Dr. Sunnyvale, CA 94089 USA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 228,
+        "hostname": "10.52.0.11",
+        "ip": "10.52.0.11",
+        "status": 1,
+        "sysName": "os6450-wifi-fl1",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 229,
+        "hostname": "10.52.0.12",
+        "ip": "10.52.0.12",
+        "status": 1,
+        "sysName": "os6450-wifi-fl2",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 230,
+        "hostname": "10.52.0.13",
+        "ip": "10.52.0.13",
+        "status": 1,
+        "sysName": "os6450-wifi-fl3",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 231,
+        "hostname": "10.52.0.14",
+        "ip": "10.52.0.14",
+        "status": 1,
+        "sysName": "os6450-wifi-fl4",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 232,
+        "hostname": "10.52.0.15",
+        "ip": "10.52.0.15",
+        "status": 1,
+        "sysName": "os6450-wifi-fl5",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 233,
+        "hostname": "10.52.0.16",
+        "ip": "10.52.0.16",
+        "status": 1,
+        "sysName": "os6450-wifi-fl6",
+        "os": "aos6",
+        "hardware": "OS6450-P24X",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 234,
+        "hostname": "10.52.0.17",
+        "ip": "10.52.0.17",
+        "status": 1,
+        "sysName": "os6360-ic114",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 235,
+        "hostname": "10.52.0.18",
+        "ip": "10.52.0.18",
+        "status": 1,
+        "sysName": "os6360-ic202",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 236,
+        "hostname": "10.52.0.19",
+        "ip": "10.52.0.19",
+        "status": 1,
+        "sysName": "os6360#1-ic308",
+        "os": "aos7",
+        "hardware": "OS6360-48",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 237,
+        "hostname": "10.52.0.20",
+        "ip": "10.52.0.20",
+        "status": 1,
+        "sysName": "os6360#2-ic308",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 238,
+        "hostname": "10.52.0.21",
+        "ip": "10.52.0.21",
+        "status": 1,
+        "sysName": "os6360#1-ic309",
+        "os": "aos7",
+        "hardware": "OS6360-48",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 239,
+        "hostname": "10.52.0.22",
+        "ip": "10.52.0.22",
+        "status": 1,
+        "sysName": "os6360#2-ic309",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 240,
+        "hostname": "10.52.0.23",
+        "ip": "10.52.0.23",
+        "status": 1,
+        "sysName": "os6360-ic405",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 241,
+        "hostname": "10.52.0.24",
+        "ip": "10.52.0.24",
+        "status": 1,
+        "sysName": "os6360-ic408",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 242,
+        "hostname": "10.52.0.25",
+        "ip": "10.52.0.25",
+        "status": 1,
+        "sysName": "os6360-ic411",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 243,
+        "hostname": "10.52.0.26",
+        "ip": "10.52.0.26",
+        "status": 1,
+        "sysName": "os6360-ic505",
+        "os": "aos7",
+        "hardware": "OS6360-24",
+        "location": "BUUIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923892,
+          13.280192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 244,
+        "hostname": "10.52.0.3",
+        "ip": "10.52.0.3",
+        "status": 1,
+        "sysName": "inter-os6850",
+        "os": "aos6",
+        "hardware": "OS6850-24X",
+        "location": "INTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923865,
+          13.280521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 245,
+        "hostname": "10.52.130.15",
+        "ip": "10.52.130.15",
+        "status": 1,
+        "sysName": "os6350-dorm_m_fl5",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "Dorm_M-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.923812,
+          13.280726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 246,
+        "hostname": "10.52.200.11",
+        "ip": "10.52.200.11",
+        "status": 1,
+        "sysName": "os6860e-dorm_f-fl1",
+        "os": "aos7",
+        "hardware": "OS6860E-P48",
+        "location": "Dorm_F-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924017,
+          13.280871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 247,
+        "hostname": "10.52.200.14",
+        "ip": "10.52.200.14",
+        "status": 1,
+        "sysName": "os6350-dorm_f_fl4",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "Dorm_F-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924017,
+          13.280871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 248,
+        "hostname": "10.52.200.17",
+        "ip": "10.52.200.17",
+        "status": 1,
+        "sysName": "os6350-dorm_f_fl7",
+        "os": "aos6",
+        "hardware": "OS6350-P48",
+        "location": "Dorm_F-FL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.924017,
+          13.280871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 249,
+        "hostname": "10.57.0.11",
+        "ip": "10.57.0.11",
+        "status": 1,
+        "sysName": "eastpark-fl1-lan",
+        "os": "aos6",
+        "hardware": "OS6450-48",
+        "location": "EastPark-FL1-Lan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926327,
+          13.282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 250,
+        "hostname": "10.57.0.13",
+        "ip": "10.57.0.13",
+        "status": 0,
+        "sysName": "eastpark-fl3-lan",
+        "os": "aos6",
+        "hardware": "OS6450-48",
+        "location": "EastPark-FL3-Lan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926327,
+          13.282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 251,
+        "hostname": "10.57.0.14",
+        "ip": "10.57.0.14",
+        "status": 1,
+        "sysName": "eastpark-fl4-lan",
+        "os": "aos6",
+        "hardware": "OS6450-48",
+        "location": "EastPark-FL4-Lan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.926327,
+          13.282615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 252,
+        "hostname": "10.64.2.11",
+        "ip": "10.64.2.11",
+        "status": 1,
+        "sysName": "kb-meeting_room-01",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "KB-Meeting_Room-BUCC591502404000001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 253,
+        "hostname": "10.64.2.13",
+        "ip": "10.64.2.13",
+        "status": 1,
+        "sysName": "kb-meeting_room-03",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "KB-Meeting_Room-BUCC591502404000014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 254,
+        "hostname": "10.64.2.14",
+        "ip": "10.64.2.14",
+        "status": 1,
+        "sysName": "kb-meeting_room-04",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "KB-Meeting_Room-BUCC591502404000023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 255,
+        "hostname": "10.64.2.15",
+        "ip": "10.64.2.15",
+        "status": 1,
+        "sysName": "kb-meeting_room-05",
+        "os": "aos6",
+        "hardware": "OS6350-24",
+        "location": "KB-Meeting_Room-BUCC631502404000016"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.927089,
+          13.283687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 287,
+        "hostname": "10.8.255.2",
+        "ip": "10.8.255.2",
+        "status": 1,
+        "sysName": "srinagarindra-os6860e",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "Srinagarindra_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92284,
+          13.284335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 256,
+        "hostname": "10.8.36.3",
+        "ip": "10.8.36.3",
+        "status": 1,
+        "sysName": "med-os6400-fl3-2",
+        "os": "aos6",
+        "hardware": "OS6400-48",
+        "location": "MED-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 257,
+        "hostname": "10.8.36.5",
+        "ip": "10.8.36.5",
+        "status": 1,
+        "sysName": "med-os6860e",
+        "os": "aos7",
+        "hardware": "OS6860E-24",
+        "location": "MED_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 258,
+        "hostname": "10.8.37.2",
+        "ip": "10.8.37.2",
+        "status": 1,
+        "sysName": "med-os6350-fl4-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MED-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 259,
+        "hostname": "10.8.37.3",
+        "ip": "10.8.37.3",
+        "status": 1,
+        "sysName": "med-os6350-fl4-2",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MED-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 260,
+        "hostname": "10.8.38.2",
+        "ip": "10.8.38.2",
+        "status": 1,
+        "sysName": "med-os6350-fl5",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MED-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.922309,
+          13.285084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 261,
+        "hostname": "10.8.69.1",
+        "ip": "10.8.69.1",
+        "status": 0,
+        "sysName": "medresearch-os6900",
+        "os": "aos7",
+        "hardware": "OS6900-X72",
+        "location": "MedResearch_Building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 262,
+        "hostname": "10.8.69.101",
+        "ip": "10.8.69.101",
+        "status": 0,
+        "sysName": "os6350-medre-basement",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-Basement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 263,
+        "hostname": "10.8.69.13",
+        "ip": "10.8.69.13",
+        "status": 0,
+        "sysName": "os6350-medre-fl1-3",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 264,
+        "hostname": "10.8.69.2",
+        "ip": "10.8.69.2",
+        "status": 0,
+        "sysName": "os6350-medre-serverroom",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-Basement"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 265,
+        "hostname": "10.8.69.31",
+        "ip": "10.8.69.31",
+        "status": 0,
+        "sysName": "os6350-medre-fl3-1",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 266,
+        "hostname": "10.8.69.41",
+        "ip": "10.8.69.41",
+        "status": 0,
+        "sysName": "os6350-medre-fl4",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 267,
+        "hostname": "10.8.69.51",
+        "ip": "10.8.69.51",
+        "status": 0,
+        "sysName": "os6350-medre-fl5",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 268,
+        "hostname": "10.8.69.61",
+        "ip": "10.8.69.61",
+        "status": 0,
+        "sysName": "os6350-medre-fl6",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 269,
+        "hostname": "10.8.69.71",
+        "ip": "10.8.69.71",
+        "status": 0,
+        "sysName": "os6350-medre-fl7",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 270,
+        "hostname": "10.8.69.81",
+        "ip": "10.8.69.81",
+        "status": 0,
+        "sysName": "os6350-medre-fl8",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 271,
+        "hostname": "10.8.69.91",
+        "ip": "10.8.69.91",
+        "status": 0,
+        "sysName": "os6350-medre-fl9",
+        "os": "aos6",
+        "hardware": "OS6350-48",
+        "location": "MedResearch-FL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.92305,
+          13.28523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 272,
+        "hostname": "202.28.79.1",
+        "ip": "202.28.79.1",
+        "status": 0,
+        "sysName": "(none)",
+        "os": "aos7",
+        "hardware": "OS6900-X20",
+        "location": "Unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          null,
+          null
+        ]
+      }
+    }
+  ]
+}
