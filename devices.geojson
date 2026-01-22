@@ -5640,6 +5640,25 @@
           null
         ]
       }
+      {
+      "type": "Feature",
+      "properties": {
+        "device_id": 290,
+        "hostname": "10.0.0.226",
+        "ip": "10.0.0.226",
+        "status": 1,
+        "sysName": "os6860e-pollaw",
+        "os": "Alcatel-Lucent OS 8.3.1.160.R02",
+        "hardware": "OS6860E-24",
+        "location": "FL2-POLLAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.279671,
+          100.925804
+        ]
+      }
     }
   ]
 }
